@@ -1,0 +1,145 @@
+Starting preprocess: source/test_four/common/l10n-generic-entities.ent
+Saved processed file → processed/test_four/common/l10n-generic-entities.ent
+Completed at 2026-11-17 18:05:22.011247
+
+Starting preprocess: source/test_four/common/legal.xml
+Saved processed file → processed/test_four/common/legal.xml
+Completed at 2026-11-17 18:05:22.038538
+
+Starting preprocess: source/test_four/concepts/kernel-boot-parameters-modify-introduction.xml
+Protected 2 entity reference(s) in attribute values
+Saved processed file → processed/test_four/concepts/kernel-boot-parameters-modify-introduction.xml
+Completed at 2026-11-17 18:05:22.066735
+
+Starting preprocess: source/test_four/concepts/openscap-scap-overview.xml
+Saved processed file → processed/test_four/concepts/openscap-scap-overview.xml
+Completed at 2026-11-17 18:05:22.094978
+
+Starting preprocess: source/test_four/concepts/sap-config-overview.xml
+Saved processed file → processed/test_four/concepts/sap-config-overview.xml
+Completed at 2026-11-17 18:05:22.123556
+
+Starting preprocess: source/test_four/glues/firewalld-more-info.xml
+Saved processed file → processed/test_four/glues/firewalld-more-info.xml
+Completed at 2026-11-17 18:05:22.152506
+
+Starting preprocess: source/test_four/glues/more-info-kdump.xml
+Saved processed file → processed/test_four/glues/more-info-kdump.xml
+Completed at 2026-11-17 18:05:22.181646
+
+Starting preprocess: source/test_four/glues/virtualization-more-info.xml
+Saved processed file → processed/test_four/glues/virtualization-more-info.xml
+Completed at 2026-11-17 18:05:22.210977
+
+Starting preprocess: source/test_four/references/RT-shielding-troubleshooting.xml
+Saved processed file → processed/test_four/references/RT-shielding-troubleshooting.xml
+Completed at 2026-11-17 18:05:22.239618
+
+Starting preprocess: source/test_four/references/ha-glossary.xml
+Saved processed file → processed/test_four/references/ha-glossary.xml
+Completed at 2026-11-17 18:05:22.268879
+
+Starting preprocess: source/test_four/references/libvirt_managing.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_four/references/libvirt_managing.xml
+Completed at 2026-11-17 18:05:22.300687
+
+Starting preprocess: source/test_four/references/network-interface-predictable-naming-troubleshooting.xml
+Saved processed file → processed/test_four/references/network-interface-predictable-naming-troubleshooting.xml
+Completed at 2026-11-17 18:05:22.329754
+
+Starting preprocess: source/test_four/references/networkmanager-nm-modify.xml
+Saved processed file → processed/test_four/references/networkmanager-nm-modify.xml
+Completed at 2026-11-17 18:05:22.359124
+
+Starting preprocess: source/test_four/references/qemu_running_vms_qemukvm.xml
+Protected 3 entity reference(s) in attribute values
+Saved processed file → processed/test_four/references/qemu_running_vms_qemukvm.xml
+Completed at 2026-11-17 18:05:22.390762
+
+Starting preprocess: source/test_four/references/virtualization-spice-removal.xml
+Saved processed file → processed/test_four/references/virtualization-spice-removal.xml
+Completed at 2026-11-17 18:05:22.420268
+
+Starting preprocess: source/test_four/references/virtualization-support.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_four/references/virtualization-support.xml
+Completed at 2026-11-17 18:05:22.450913
+
+Starting preprocess: source/test_four/references/vt-glossary.xml
+Saved processed file → processed/test_four/references/vt-glossary.xml
+Completed at 2026-11-17 18:05:22.479874
+
+Starting preprocess: source/test_four/snippets/Micro-default-registries.xml
+Saved processed file → processed/test_four/snippets/Micro-default-registries.xml
+Completed at 2026-11-17 18:05:22.508671
+
+Starting preprocess: source/test_four/snippets/Micro-upgrade-path.xml
+Saved processed file → processed/test_four/snippets/Micro-upgrade-path.xml
+Completed at 2026-11-17 18:05:22.537563
+
+Starting preprocess: source/test_four/snippets/deployment-raw-partitioning.xml
+Saved processed file → processed/test_four/snippets/deployment-raw-partitioning.xml
+Completed at 2026-11-17 18:05:22.565931
+
+Starting preprocess: source/test_four/snippets/ha-maintenance-mode-off.xml
+Saved processed file → processed/test_four/snippets/ha-maintenance-mode-off.xml
+Completed at 2026-11-17 18:05:22.594721
+
+Starting preprocess: source/test_four/snippets/openwebui-intro.xml
+Saved processed file → processed/test_four/snippets/openwebui-intro.xml
+Completed at 2026-11-17 18:05:22.622874
+
+Starting preprocess: source/test_four/snippets/openwebui-tip-default-model.xml
+Saved processed file → processed/test_four/snippets/openwebui-tip-default-model.xml
+Completed at 2026-11-17 18:05:22.650350
+
+Starting preprocess: source/test_four/snippets/requirement-root-or-sudo-privileges.xml
+Saved processed file → processed/test_four/snippets/requirement-root-or-sudo-privileges.xml
+Completed at 2026-11-17 18:05:22.678913
+
+Starting preprocess: source/test_four/snippets/tls-certificates-issuing-common-steps.xml
+Saved processed file → processed/test_four/snippets/tls-certificates-issuing-common-steps.xml
+Completed at 2026-11-17 18:05:22.707112
+
+Starting preprocess: source/test_four/snippets/unsafe-cache-mode-warning.xml
+Saved processed file → processed/test_four/snippets/unsafe-cache-mode-warning.xml
+Completed at 2026-11-17 18:05:22.734985
+
+Starting preprocess: source/test_four/tasks/cpu-check-temperature-configure.xml
+Saved processed file → processed/test_four/tasks/cpu-check-temperature-configure.xml
+Completed at 2026-11-17 18:05:22.763786
+
+Starting preprocess: source/test_four/tasks/ha-crmsh-using-interactive-mode.xml
+Saved processed file → processed/test_four/tasks/ha-crmsh-using-interactive-mode.xml
+Completed at 2026-11-17 18:05:22.791781
+
+Starting preprocess: source/test_four/tasks/klp-activate-cli.xml
+Saved processed file → processed/test_four/tasks/klp-activate-cli.xml
+Completed at 2026-11-17 18:05:22.820320
+
+Starting preprocess: source/test_four/tasks/openscap-system-remediating.xml
+Saved processed file → processed/test_four/tasks/openscap-system-remediating.xml
+Completed at 2026-11-17 18:05:22.849199
+
+Starting preprocess: source/test_four/tasks/rmt-deploying-on-kubernetes.xml
+Protected 2 entity reference(s) in attribute values
+Saved processed file → processed/test_four/tasks/rmt-deploying-on-kubernetes.xml
+Completed at 2026-11-17 18:05:22.878000
+
+Starting preprocess: source/test_four/tasks/rmt-mirroring-obtaining-credentials.xml
+Saved processed file → processed/test_four/tasks/rmt-mirroring-obtaining-credentials.xml
+Completed at 2026-11-17 18:05:22.906518
+
+Starting preprocess: source/test_four/tasks/rt-docker-shielding-applications.xml
+Saved processed file → processed/test_four/tasks/rt-docker-shielding-applications.xml
+Completed at 2026-11-17 18:05:22.935029
+
+Starting preprocess: source/test_four/tasks/sudo-run-command.xml
+Saved processed file → processed/test_four/tasks/sudo-run-command.xml
+Completed at 2026-11-17 18:05:22.964097
+
+Starting preprocess: source/test_four/tasks/supportconfig-submitting-archive.xml
+Saved processed file → processed/test_four/tasks/supportconfig-submitting-archive.xml
+Completed at 2026-11-17 18:05:22.992063
+

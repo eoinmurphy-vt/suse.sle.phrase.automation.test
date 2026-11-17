@@ -1,0 +1,29 @@
+Starting preprocess: source/test_four/articles/NVIDIA-Jetson.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_four/articles/NVIDIA-Jetson.asm.xml
+Completed at 2026-11-17 18:05:21.841461
+
+Starting preprocess: source/test_four/articles/deployment-pxe-boot.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_four/articles/deployment-pxe-boot.asm.xml
+Completed at 2026-11-17 18:05:21.870945
+
+Starting preprocess: source/test_four/articles/journalctl.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_four/articles/journalctl.asm.xml
+Completed at 2026-11-17 18:05:21.898853
+
+Starting preprocess: source/test_four/articles/sles-to-sap.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_four/articles/sles-to-sap.asm.xml
+Completed at 2026-11-17 18:05:21.926762
+
+Starting preprocess: source/test_four/articles/transactional-updates.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_four/articles/transactional-updates.asm.xml
+Completed at 2026-11-17 18:05:21.955270
+
+Starting preprocess: source/test_four/common/l10n-bookname-entities.ent
+Saved processed file → processed/test_four/common/l10n-bookname-entities.ent
+Completed at 2026-11-17 18:05:21.983098
+
