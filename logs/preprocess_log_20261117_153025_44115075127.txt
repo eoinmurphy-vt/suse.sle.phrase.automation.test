@@ -1,0 +1,46 @@
+Starting preprocess: source/test_two/articles/NVIDIA-Jetson.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_two/articles/NVIDIA-Jetson.asm.xml
+Completed at 2026-11-17 15:30:25.808017
+
+Starting preprocess: source/test_two/articles/deployment-pxe-boot.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_two/articles/deployment-pxe-boot.asm.xml
+Completed at 2026-11-17 15:30:25.829864
+
+Starting preprocess: source/test_two/articles/journalctl.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_two/articles/journalctl.asm.xml
+Completed at 2026-11-17 15:30:25.850517
+
+Starting preprocess: source/test_two/articles/sles-to-sap.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_two/articles/sles-to-sap.asm.xml
+Completed at 2026-11-17 15:30:25.871228
+
+Starting preprocess: source/test_two/articles/transactional-updates.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_two/articles/transactional-updates.asm.xml
+Completed at 2026-11-17 15:30:25.892312
+
+Starting preprocess: source/test_two/common/l10n-bookname-entities.ent
+Saved processed file → processed/test_two/common/l10n-bookname-entities.ent
+Completed at 2026-11-17 15:30:25.913036
+
+Starting preprocess: source/test_two/common/l10n-generic-entities.ent
+Saved processed file → processed/test_two/common/l10n-generic-entities.ent
+Completed at 2026-11-17 15:30:25.933787
+
+Starting preprocess: source/test_two/common/legal.xml
+Saved processed file → processed/test_two/common/legal.xml
+Completed at 2026-11-17 15:30:25.954541
+
+Starting preprocess: source/test_two/concepts/kernel-boot-parameters-modify-introduction.xml
+Protected 2 entity reference(s) in attribute values
+Saved processed file → processed/test_two/concepts/kernel-boot-parameters-modify-introduction.xml
+Completed at 2026-11-17 15:30:25.975673
+
+Starting preprocess: source/test_two/concepts/openscap-scap-overview.xml
+Saved processed file → processed/test_two/concepts/openscap-scap-overview.xml
+Completed at 2026-11-17 15:30:25.996673
+

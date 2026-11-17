@@ -1,0 +1,132 @@
+Starting preprocess: source/test_two/concepts/sap-config-overview.xml
+Saved processed file → processed/test_two/concepts/sap-config-overview.xml
+Completed at 2026-11-17 15:30:26.017085
+
+Starting preprocess: source/test_two/glues/firewalld-more-info.xml
+Saved processed file → processed/test_two/glues/firewalld-more-info.xml
+Completed at 2026-11-17 15:30:26.038442
+
+Starting preprocess: source/test_two/glues/more-info-kdump.xml
+Saved processed file → processed/test_two/glues/more-info-kdump.xml
+Completed at 2026-11-17 15:30:26.059383
+
+Starting preprocess: source/test_two/glues/virtualization-more-info.xml
+Saved processed file → processed/test_two/glues/virtualization-more-info.xml
+Completed at 2026-11-17 15:30:26.080315
+
+Starting preprocess: source/test_two/references/RT-shielding-troubleshooting.xml
+Saved processed file → processed/test_two/references/RT-shielding-troubleshooting.xml
+Completed at 2026-11-17 15:30:26.101593
+
+Starting preprocess: source/test_two/references/ha-glossary.xml
+Saved processed file → processed/test_two/references/ha-glossary.xml
+Completed at 2026-11-17 15:30:26.123708
+
+Starting preprocess: source/test_two/references/libvirt_managing.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_two/references/libvirt_managing.xml
+Completed at 2026-11-17 15:30:26.146516
+
+Starting preprocess: source/test_two/references/network-interface-predictable-naming-troubleshooting.xml
+Saved processed file → processed/test_two/references/network-interface-predictable-naming-troubleshooting.xml
+Completed at 2026-11-17 15:30:26.167225
+
+Starting preprocess: source/test_two/references/networkmanager-nm-modify.xml
+Saved processed file → processed/test_two/references/networkmanager-nm-modify.xml
+Completed at 2026-11-17 15:30:26.187912
+
+Starting preprocess: source/test_two/references/qemu_running_vms_qemukvm.xml
+Protected 3 entity reference(s) in attribute values
+Saved processed file → processed/test_two/references/qemu_running_vms_qemukvm.xml
+Completed at 2026-11-17 15:30:26.210345
+
+Starting preprocess: source/test_two/references/virtualization-spice-removal.xml
+Saved processed file → processed/test_two/references/virtualization-spice-removal.xml
+Completed at 2026-11-17 15:30:26.231354
+
+Starting preprocess: source/test_two/references/virtualization-support.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_two/references/virtualization-support.xml
+Completed at 2026-11-17 15:30:26.253506
+
+Starting preprocess: source/test_two/references/vt-glossary.xml
+Saved processed file → processed/test_two/references/vt-glossary.xml
+Completed at 2026-11-17 15:30:26.274314
+
+Starting preprocess: source/test_two/snippets/Micro-default-registries.xml
+Saved processed file → processed/test_two/snippets/Micro-default-registries.xml
+Completed at 2026-11-17 15:30:26.295127
+
+Starting preprocess: source/test_two/snippets/Micro-upgrade-path.xml
+Saved processed file → processed/test_two/snippets/Micro-upgrade-path.xml
+Completed at 2026-11-17 15:30:26.315861
+
+Starting preprocess: source/test_two/snippets/deployment-raw-partitioning.xml
+Saved processed file → processed/test_two/snippets/deployment-raw-partitioning.xml
+Completed at 2026-11-17 15:30:26.336163
+
+Starting preprocess: source/test_two/snippets/ha-maintenance-mode-off.xml
+Saved processed file → processed/test_two/snippets/ha-maintenance-mode-off.xml
+Completed at 2026-11-17 15:30:26.356759
+
+Starting preprocess: source/test_two/snippets/openwebui-intro.xml
+Saved processed file → processed/test_two/snippets/openwebui-intro.xml
+Completed at 2026-11-17 15:30:26.377562
+
+Starting preprocess: source/test_two/snippets/openwebui-tip-default-model.xml
+Saved processed file → processed/test_two/snippets/openwebui-tip-default-model.xml
+Completed at 2026-11-17 15:30:26.398411
+
+Starting preprocess: source/test_two/snippets/requirement-root-or-sudo-privileges.xml
+Saved processed file → processed/test_two/snippets/requirement-root-or-sudo-privileges.xml
+Completed at 2026-11-17 15:30:26.419030
+
+Starting preprocess: source/test_two/snippets/tls-certificates-issuing-common-steps.xml
+Saved processed file → processed/test_two/snippets/tls-certificates-issuing-common-steps.xml
+Completed at 2026-11-17 15:30:26.439997
+
+Starting preprocess: source/test_two/snippets/unsafe-cache-mode-warning.xml
+Saved processed file → processed/test_two/snippets/unsafe-cache-mode-warning.xml
+Completed at 2026-11-17 15:30:26.461084
+
+Starting preprocess: source/test_two/tasks/cpu-check-temperature-configure.xml
+Saved processed file → processed/test_two/tasks/cpu-check-temperature-configure.xml
+Completed at 2026-11-17 15:30:26.482297
+
+Starting preprocess: source/test_two/tasks/ha-crmsh-using-interactive-mode.xml
+Saved processed file → processed/test_two/tasks/ha-crmsh-using-interactive-mode.xml
+Completed at 2026-11-17 15:30:26.503324
+
+Starting preprocess: source/test_two/tasks/klp-activate-cli.xml
+Saved processed file → processed/test_two/tasks/klp-activate-cli.xml
+Completed at 2026-11-17 15:30:26.524117
+
+Starting preprocess: source/test_two/tasks/openscap-system-remediating.xml
+Saved processed file → processed/test_two/tasks/openscap-system-remediating.xml
+Completed at 2026-11-17 15:30:26.545884
+
+Starting preprocess: source/test_two/tasks/rmt-deploying-on-kubernetes.xml
+Protected 2 entity reference(s) in attribute values
+Saved processed file → processed/test_two/tasks/rmt-deploying-on-kubernetes.xml
+Completed at 2026-11-17 15:30:26.567121
+
+Starting preprocess: source/test_two/tasks/rmt-mirroring-obtaining-credentials.xml
+Saved processed file → processed/test_two/tasks/rmt-mirroring-obtaining-credentials.xml
+Completed at 2026-11-17 15:30:26.588045
+
+Starting preprocess: source/test_two/tasks/rt-docker-shielding-applications.xml
+Saved processed file → processed/test_two/tasks/rt-docker-shielding-applications.xml
+Completed at 2026-11-17 15:30:26.608990
+
+Starting preprocess: source/test_two/tasks/sudo-run-command.xml
+Saved processed file → processed/test_two/tasks/sudo-run-command.xml
+Completed at 2026-11-17 15:30:26.629818
+
+Starting preprocess: source/test_two/tasks/supportconfig-submitting-archive.xml
+Saved processed file → processed/test_two/tasks/supportconfig-submitting-archive.xml
+Completed at 2026-11-17 15:30:26.651038
+
+Starting preprocess: source/test_two/tasks/systemd-timer-migrate-from-cron.xml
+Saved processed file → processed/test_two/tasks/systemd-timer-migrate-from-cron.xml
+Completed at 2026-11-17 15:30:26.672424
+
