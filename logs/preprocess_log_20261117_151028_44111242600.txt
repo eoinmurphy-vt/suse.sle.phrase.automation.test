@@ -1,0 +1,154 @@
+Starting preprocess: source/test_one/articles/NVIDIA-Jetson.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_one/articles/NVIDIA-Jetson.asm.xml
+Completed at 2026-11-17 15:10:28.170356
+
+Starting preprocess: source/test_one/articles/deployment-pxe-boot.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_one/articles/deployment-pxe-boot.asm.xml
+Completed at 2026-11-17 15:10:28.189429
+
+Starting preprocess: source/test_one/articles/journalctl.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_one/articles/journalctl.asm.xml
+Completed at 2026-11-17 15:10:28.207125
+
+Starting preprocess: source/test_one/articles/sles-to-sap.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_one/articles/sles-to-sap.asm.xml
+Completed at 2026-11-17 15:10:28.224574
+
+Starting preprocess: source/test_one/articles/transactional-updates.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_one/articles/transactional-updates.asm.xml
+Completed at 2026-11-17 15:10:28.241995
+
+Starting preprocess: source/test_one/concepts/kernel-boot-parameters-modify-introduction.xml
+Protected 2 entity reference(s) in attribute values
+Saved processed file → processed/test_one/concepts/kernel-boot-parameters-modify-introduction.xml
+Completed at 2026-11-17 15:10:28.259766
+
+Starting preprocess: source/test_one/concepts/openscap-scap-overview.xml
+Saved processed file → processed/test_one/concepts/openscap-scap-overview.xml
+Completed at 2026-11-17 15:10:28.276979
+
+Starting preprocess: source/test_one/concepts/sap-config-overview.xml
+Saved processed file → processed/test_one/concepts/sap-config-overview.xml
+Completed at 2026-11-17 15:10:28.294192
+
+Starting preprocess: source/test_one/glues/firewalld-more-info.xml
+Saved processed file → processed/test_one/glues/firewalld-more-info.xml
+Completed at 2026-11-17 15:10:28.311957
+
+Starting preprocess: source/test_one/glues/virtualization-more-info.xml
+Saved processed file → processed/test_one/glues/virtualization-more-info.xml
+Completed at 2026-11-17 15:10:28.330350
+
+Starting preprocess: source/test_one/references/RT-shielding-troubleshooting.xml
+Saved processed file → processed/test_one/references/RT-shielding-troubleshooting.xml
+Completed at 2026-11-17 15:10:28.349297
+
+Starting preprocess: source/test_one/references/ha-glossary.xml
+Saved processed file → processed/test_one/references/ha-glossary.xml
+Completed at 2026-11-17 15:10:28.368042
+
+Starting preprocess: source/test_one/references/libvirt_managing.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_one/references/libvirt_managing.xml
+Completed at 2026-11-17 15:10:28.387255
+
+Starting preprocess: source/test_one/references/network-interface-predictable-naming-troubleshooting.xml
+Saved processed file → processed/test_one/references/network-interface-predictable-naming-troubleshooting.xml
+Completed at 2026-11-17 15:10:28.405488
+
+Starting preprocess: source/test_one/references/networkmanager-nm-modify.xml
+Saved processed file → processed/test_one/references/networkmanager-nm-modify.xml
+Completed at 2026-11-17 15:10:28.423837
+
+Starting preprocess: source/test_one/references/qemu_running_vms_qemukvm.xml
+Protected 3 entity reference(s) in attribute values
+Saved processed file → processed/test_one/references/qemu_running_vms_qemukvm.xml
+Completed at 2026-11-17 15:10:28.443385
+
+Starting preprocess: source/test_one/references/virtualization-spice-removal.xml
+Saved processed file → processed/test_one/references/virtualization-spice-removal.xml
+Completed at 2026-11-17 15:10:28.461413
+
+Starting preprocess: source/test_one/references/virtualization-support.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_one/references/virtualization-support.xml
+Completed at 2026-11-17 15:10:28.480003
+
+Starting preprocess: source/test_one/references/vt-glossary.xml
+Saved processed file → processed/test_one/references/vt-glossary.xml
+Completed at 2026-11-17 15:10:28.498873
+
+Starting preprocess: source/test_one/snippets/Micro-default-registries.xml
+Saved processed file → processed/test_one/snippets/Micro-default-registries.xml
+Completed at 2026-11-17 15:10:28.516379
+
+Starting preprocess: source/test_one/snippets/Micro-upgrade-path.xml
+Saved processed file → processed/test_one/snippets/Micro-upgrade-path.xml
+Completed at 2026-11-17 15:10:28.533532
+
+Starting preprocess: source/test_one/snippets/deployment-raw-partitioning.xml
+Saved processed file → processed/test_one/snippets/deployment-raw-partitioning.xml
+Completed at 2026-11-17 15:10:28.550843
+
+Starting preprocess: source/test_one/snippets/ha-maintenance-mode-off.xml
+Saved processed file → processed/test_one/snippets/ha-maintenance-mode-off.xml
+Completed at 2026-11-17 15:10:28.568083
+
+Starting preprocess: source/test_one/snippets/openwebui-intro.xml
+Saved processed file → processed/test_one/snippets/openwebui-intro.xml
+Completed at 2026-11-17 15:10:28.585887
+
+Starting preprocess: source/test_one/snippets/openwebui-tip-default-model.xml
+Saved processed file → processed/test_one/snippets/openwebui-tip-default-model.xml
+Completed at 2026-11-17 15:10:28.603532
+
+Starting preprocess: source/test_one/snippets/requirement-root-or-sudo-privileges.xml
+Saved processed file → processed/test_one/snippets/requirement-root-or-sudo-privileges.xml
+Completed at 2026-11-17 15:10:28.620864
+
+Starting preprocess: source/test_one/tasks/cpu-check-temperature-configure.xml
+Saved processed file → processed/test_one/tasks/cpu-check-temperature-configure.xml
+Completed at 2026-11-17 15:10:28.637828
+
+Starting preprocess: source/test_one/tasks/ha-crmsh-using-interactive-mode.xml
+Saved processed file → processed/test_one/tasks/ha-crmsh-using-interactive-mode.xml
+Completed at 2026-11-17 15:10:28.654995
+
+Starting preprocess: source/test_one/tasks/klp-activate-cli.xml
+Saved processed file → processed/test_one/tasks/klp-activate-cli.xml
+Completed at 2026-11-17 15:10:28.672091
+
+Starting preprocess: source/test_one/tasks/openscap-system-remediating.xml
+Saved processed file → processed/test_one/tasks/openscap-system-remediating.xml
+Completed at 2026-11-17 15:10:28.689328
+
+Starting preprocess: source/test_one/tasks/rmt-deploying-on-kubernetes.xml
+Protected 2 entity reference(s) in attribute values
+Saved processed file → processed/test_one/tasks/rmt-deploying-on-kubernetes.xml
+Completed at 2026-11-17 15:10:28.707312
+
+Starting preprocess: source/test_one/tasks/rmt-mirroring-obtaining-credentials.xml
+Saved processed file → processed/test_one/tasks/rmt-mirroring-obtaining-credentials.xml
+Completed at 2026-11-17 15:10:28.725811
+
+Starting preprocess: source/test_one/tasks/rt-docker-shielding-applications.xml
+Saved processed file → processed/test_one/tasks/rt-docker-shielding-applications.xml
+Completed at 2026-11-17 15:10:28.743545
+
+Starting preprocess: source/test_one/tasks/sudo-run-command.xml
+Saved processed file → processed/test_one/tasks/sudo-run-command.xml
+Completed at 2026-11-17 15:10:28.760797
+
+Starting preprocess: source/test_one/tasks/supportconfig-submitting-archive.xml
+Saved processed file → processed/test_one/tasks/supportconfig-submitting-archive.xml
+Completed at 2026-11-17 15:10:28.778209
+
+Starting preprocess: source/test_one/tasks/systemd-timer-migrate-from-cron.xml
+Saved processed file → processed/test_one/tasks/systemd-timer-migrate-from-cron.xml
+Completed at 2026-11-17 15:10:28.795295
+
