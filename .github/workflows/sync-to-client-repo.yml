@@ -94,8 +94,10 @@ jobs:
             TEMP_WS="workspace_$CLIENT_ID"
             rm -rf "$TEMP_WS"
             
-            # Clone the client repository
-            git clone --depth 1 --branch "$BASE_BRANCH" https://$EXT_PAT@github.com/$CLIENT_URL.git "$TEMP_WS"
+            # Clone the client repository. The token is given as the password (user x-access-token):
+            # with the token as user name only, git asks for a password on push and the job fails
+            # with "could not read Password".
+            git clone --depth 1 --branch "$BASE_BRANCH" "https://x-access-token:$EXT_PAT@github.com/$CLIENT_URL.git" "$TEMP_WS"
             
             mkdir -p "$TEMP_WS/$(dirname "$TARGET_PATH")"
             rsync -av "$REPO_DIR/" "$TEMP_WS/$TARGET_PATH/"
