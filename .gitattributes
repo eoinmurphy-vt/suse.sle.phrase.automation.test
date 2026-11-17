@@ -1,0 +1,3 @@
+# Force all DocBook XML and entity files to use Unix LF newlines
+*.xml text eol=lf
+*.ent text eol=lf
