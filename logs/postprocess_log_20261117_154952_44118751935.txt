@@ -1,0 +1,61 @@
+Postprocess started: 2026-11-17 15:49:52.005425
+
+⚠ MANUAL OVERRIDE TRIGGERED: Processing ALL files.
+✓ Processed: de_de/test_two/articles/NVIDIA-Jetson.asm.xml -> final/test_two/de/articles/NVIDIA-Jetson.asm.xml
+✓ Processed: de_de/test_two/articles/deployment-pxe-boot.asm.xml -> final/test_two/de/articles/deployment-pxe-boot.asm.xml
+✓ Processed: de_de/test_two/articles/journalctl.asm.xml -> final/test_two/de/articles/journalctl.asm.xml
+✓ Processed: de_de/test_two/articles/sles-to-sap.asm.xml -> final/test_two/de/articles/sles-to-sap.asm.xml
+✓ Processed: de_de/test_two/articles/transactional-updates.asm.xml -> final/test_two/de/articles/transactional-updates.asm.xml
+✓ Processed: de_de/test_two/common/l10n-bookname-entities.ent -> final/test_two/de/common/l10n-bookname-entities.ent
+✓ Processed: de_de/test_two/common/l10n-generic-entities.ent -> final/test_two/de/common/l10n-generic-entities.ent
+✓ Processed: de_de/test_two/common/legal.xml -> final/test_two/de/common/legal.xml
+✓ Processed: de_de/test_two/concepts/kernel-boot-parameters-modify-introduction.xml -> final/test_two/de/concepts/kernel-boot-parameters-modify-introduction.xml
+✓ Processed: de_de/test_two/concepts/openscap-scap-overview.xml -> final/test_two/de/concepts/openscap-scap-overview.xml
+✓ Processed: de_de/test_two/concepts/sap-config-overview.xml -> final/test_two/de/concepts/sap-config-overview.xml
+✓ Processed: de_de/test_two/glues/firewalld-more-info.xml -> final/test_two/de/glues/firewalld-more-info.xml
+✓ Processed: de_de/test_two/glues/more-info-kdump.xml -> final/test_two/de/glues/more-info-kdump.xml
+✓ Processed: de_de/test_two/glues/virtualization-more-info.xml -> final/test_two/de/glues/virtualization-more-info.xml
+✓ Processed: de_de/test_two/references/RT-shielding-troubleshooting.xml -> final/test_two/de/references/RT-shielding-troubleshooting.xml
+✓ Processed: de_de/test_two/references/ha-glossary.xml -> final/test_two/de/references/ha-glossary.xml
+XML declaration restored to match the English source: de_de/test_two/references/libvirt_managing.xml
+✓ Processed: de_de/test_two/references/libvirt_managing.xml -> final/test_two/de/references/libvirt_managing.xml
+✓ Processed: de_de/test_two/references/network-interface-predictable-naming-troubleshooting.xml -> final/test_two/de/references/network-interface-predictable-naming-troubleshooting.xml
+✓ Processed: de_de/test_two/references/networkmanager-nm-modify.xml -> final/test_two/de/references/networkmanager-nm-modify.xml
+XML declaration restored to match the English source: de_de/test_two/references/qemu_running_vms_qemukvm.xml
+✓ Processed: de_de/test_two/references/qemu_running_vms_qemukvm.xml -> final/test_two/de/references/qemu_running_vms_qemukvm.xml
+XML declaration restored to match the English source: de_de/test_two/references/virtualization-spice-removal.xml
+✓ Processed: de_de/test_two/references/virtualization-spice-removal.xml -> final/test_two/de/references/virtualization-spice-removal.xml
+⚠ de_de/test_two/references/virtualization-support.xml: entity references differ from the English source. Fewer: ['sls']  More: -
+✓ Processed: de_de/test_two/references/virtualization-support.xml -> final/test_two/de/references/virtualization-support.xml
+XML declaration restored to match the English source: de_de/test_two/references/vt-glossary.xml
+✓ Processed: de_de/test_two/references/vt-glossary.xml -> final/test_two/de/references/vt-glossary.xml
+XML declaration removed to match the English source: de_de/test_two/snippets/Micro-default-registries.xml
+✓ Processed: de_de/test_two/snippets/Micro-default-registries.xml -> final/test_two/de/snippets/Micro-default-registries.xml
+XML declaration removed to match the English source: de_de/test_two/snippets/Micro-upgrade-path.xml
+✓ Processed: de_de/test_two/snippets/Micro-upgrade-path.xml -> final/test_two/de/snippets/Micro-upgrade-path.xml
+✓ Processed: de_de/test_two/snippets/deployment-raw-partitioning.xml -> final/test_two/de/snippets/deployment-raw-partitioning.xml
+XML declaration removed to match the English source: de_de/test_two/snippets/ha-maintenance-mode-off.xml
+✓ Processed: de_de/test_two/snippets/ha-maintenance-mode-off.xml -> final/test_two/de/snippets/ha-maintenance-mode-off.xml
+XML declaration removed to match the English source: de_de/test_two/snippets/openwebui-intro.xml
+✓ Processed: de_de/test_two/snippets/openwebui-intro.xml -> final/test_two/de/snippets/openwebui-intro.xml
+XML declaration removed to match the English source: de_de/test_two/snippets/openwebui-tip-default-model.xml
+✓ Processed: de_de/test_two/snippets/openwebui-tip-default-model.xml -> final/test_two/de/snippets/openwebui-tip-default-model.xml
+XML declaration removed to match the English source: de_de/test_two/snippets/requirement-root-or-sudo-privileges.xml
+✓ Processed: de_de/test_two/snippets/requirement-root-or-sudo-privileges.xml -> final/test_two/de/snippets/requirement-root-or-sudo-privileges.xml
+XML declaration removed to match the English source: de_de/test_two/snippets/tls-certificates-issuing-common-steps.xml
+✓ Processed: de_de/test_two/snippets/tls-certificates-issuing-common-steps.xml -> final/test_two/de/snippets/tls-certificates-issuing-common-steps.xml
+XML declaration removed to match the English source: de_de/test_two/snippets/unsafe-cache-mode-warning.xml
+✓ Processed: de_de/test_two/snippets/unsafe-cache-mode-warning.xml -> final/test_two/de/snippets/unsafe-cache-mode-warning.xml
+✓ Processed: de_de/test_two/tasks/cpu-check-temperature-configure.xml -> final/test_two/de/tasks/cpu-check-temperature-configure.xml
+✓ Processed: de_de/test_two/tasks/ha-crmsh-using-interactive-mode.xml -> final/test_two/de/tasks/ha-crmsh-using-interactive-mode.xml
+✓ Processed: de_de/test_two/tasks/klp-activate-cli.xml -> final/test_two/de/tasks/klp-activate-cli.xml
+✓ Processed: de_de/test_two/tasks/openscap-system-remediating.xml -> final/test_two/de/tasks/openscap-system-remediating.xml
+✓ Processed: de_de/test_two/tasks/rmt-deploying-on-kubernetes.xml -> final/test_two/de/tasks/rmt-deploying-on-kubernetes.xml
+✓ Processed: de_de/test_two/tasks/rmt-mirroring-obtaining-credentials.xml -> final/test_two/de/tasks/rmt-mirroring-obtaining-credentials.xml
+✓ Processed: de_de/test_two/tasks/rt-docker-shielding-applications.xml -> final/test_two/de/tasks/rt-docker-shielding-applications.xml
+✓ Processed: de_de/test_two/tasks/sudo-run-command.xml -> final/test_two/de/tasks/sudo-run-command.xml
+✓ Processed: de_de/test_two/tasks/supportconfig-submitting-archive.xml -> final/test_two/de/tasks/supportconfig-submitting-archive.xml
+✓ Processed: de_de/test_two/tasks/systemd-timer-migrate-from-cron.xml -> final/test_two/de/tasks/systemd-timer-migrate-from-cron.xml
+
+=== Postprocess Complete ===
+Summary: Processed=42, Warnings=1, Errors=0, Skipped=58
