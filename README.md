@@ -75,7 +75,7 @@ The badges above show the current automation state for each workflow action:
    * Restores the protected entity references: `{{ent:productnumber}}` → `&productnumber;`
    * Makes the XML declaration match the English source. Phrase TMS adds
      `<?xml version='1.0' encoding='UTF-8'?>` to files that have no declaration; it is removed again
-   * Sets `xml:lang` to the target language, for example `xml:lang="en"` → `xml:lang="de-de"`
+   * Sets `xml:lang` to the target language, for example `xml:lang="en"` → `xml:lang="de"`
      (switch off with the variable `SET_XML_LANG` = `false`)
    * **Does not deliver** a file that is broken: XML that is no longer well-formed, or an `.ent` file
      whose `<!ENTITY …>` lines or entity names were damaged. The run is marked as failed and the
@@ -107,11 +107,12 @@ Path mapping:
     source/       source/<client-id>/tasks/example.xml
     processed/    processed/<client-id>/tasks/example.xml
     translated/   translated/<phrase-locale>/<client-id>/tasks/example.xml      (e.g. de_de)
-    final/        final/<client-id>/<language>/tasks/example.xml                (e.g. de-de)
+    final/        final/<client-id>/<language>/tasks/example.xml                (e.g. de)
     client repo   <target_path>/<language>/tasks/example.xml
 
-The language folder is the Phrase TMS locale in lowercase with a hyphen (`de_de` → `de-de`,
-`ja_jp` → `ja-jp`). Exceptions are defined in `get_target_lang()` in `postprocess_xml.py`.
+The language folder is the 2-letter language code of the Phrase TMS locale (`de_de` → `de`,
+`pt_br` → `pt`, `zh_cn` → `zh`). Exceptions are defined in `get_target_lang()` in `postprocess_xml.py`;
+add one if two locales of the same language are ever translated, or both are delivered to one folder.
 
 ---
 

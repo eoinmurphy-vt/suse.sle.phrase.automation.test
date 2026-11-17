@@ -54,22 +54,21 @@ def warn(msg):
 def get_target_lang(phrase_folder):
     """
     Determines the target language code from the Phrase TMS locale folder.
-    - Standard: de_de -> de, ja_jp -> ja (the naming SUSE uses under l10n/)
+    - Standard: the 2-letter language code SUSE delivers under (de_de -> de, pt_br -> pt, zh_cn -> zh)
     - Exceptions: see below
     """
-    folder = phrase_folder.lower()
+    folder = phrase_folder.lower().replace("-", "_")
 
-    # EXCEPTIONS: Phrase locales that are delivered under a different code
-    exceptions = {
-        "zh_sg": "zh-cn",
-        "zh_hk": "zh-tw"
-    }
+    # EXCEPTIONS: Phrase locales that are delivered under a different code.
+    # Needed if two locales of one language are ever translated (for example zh_cn and zh_tw),
+    # because both would otherwise be delivered to the same folder.
+    exceptions = {}
 
     if folder in exceptions:
         return exceptions[folder]
 
-    # DEFAULT: language-region, lowercase, hyphenated (fr_fr -> fr-fr)
-    return folder.replace("_", "-")
+    # DEFAULT: the language part of the locale (fr_fr -> fr)
+    return folder.split("_")[0]
 
 
 def split_path(rel: str):
