@@ -1,0 +1,93 @@
+Starting preprocess: source/test_one/tasks/podman-checkpoint.xml
+Saved processed file → processed/test_one/tasks/podman-checkpoint.xml
+Completed at 2026-11-17 14:06:04.289691
+
+Starting preprocess: source/test_one/tasks/rt-io-cpu-tuning-tune-io-scheduler.xml
+Saved processed file → processed/test_one/tasks/rt-io-cpu-tuning-tune-io-scheduler.xml
+Completed at 2026-11-17 14:06:04.311951
+
+Starting preprocess: source/test_one/tasks/cockpit-configuring-servers.xml
+Saved processed file → processed/test_one/tasks/cockpit-configuring-servers.xml
+Completed at 2026-11-17 14:06:04.332943
+
+Starting preprocess: source/test_one/tasks/ha-testing-cluster-failures.xml
+Saved processed file → processed/test_one/tasks/ha-testing-cluster-failures.xml
+Completed at 2026-11-17 14:06:04.354848
+
+Starting preprocess: source/test_one/common/legal.xml
+Saved processed file → processed/test_one/common/legal.xml
+Completed at 2026-11-17 14:06:04.376732
+
+Starting preprocess: source/test_one/common/l10n-generic-entities.ent
+Saved processed file → processed/test_one/common/l10n-generic-entities.ent
+Completed at 2026-11-17 14:06:04.398509
+
+Starting preprocess: source/test_one/common/l10n-bookname-entities.ent
+Saved processed file → processed/test_one/common/l10n-bookname-entities.ent
+Completed at 2026-11-17 14:06:04.420784
+
+Starting preprocess: source/test_one/concepts/ansible-role-systemd.xml
+Saved processed file → processed/test_one/concepts/ansible-role-systemd.xml
+Completed at 2026-11-17 14:06:04.453875
+
+Starting preprocess: source/test_one/concepts/what-is-systemd.xml
+Saved processed file → processed/test_one/concepts/what-is-systemd.xml
+Completed at 2026-11-17 14:06:04.484187
+
+Starting preprocess: source/test_one/concepts/copy-file-with-rsync-concept.xml
+Saved processed file → processed/test_one/concepts/copy-file-with-rsync-concept.xml
+Completed at 2026-11-17 14:06:04.516501
+
+Starting preprocess: source/test_one/concepts/systemd-as-regular-user.xml
+Saved processed file → processed/test_one/concepts/systemd-as-regular-user.xml
+Completed at 2026-11-17 14:06:04.547930
+
+Starting preprocess: source/test_one/snippets/unsafe-cache-mode-warning.xml
+Saved processed file → processed/test_one/snippets/unsafe-cache-mode-warning.xml
+Completed at 2026-11-17 14:06:04.579729
+
+Starting preprocess: source/test_one/snippets/tls-certificates-issuing-common-steps.xml
+Saved processed file → processed/test_one/snippets/tls-certificates-issuing-common-steps.xml
+Completed at 2026-11-17 14:06:04.611244
+
+Starting preprocess: source/test_one/glues/saptune-about.xml
+Saved processed file → processed/test_one/glues/saptune-about.xml
+Completed at 2026-11-17 14:06:04.640025
+
+Starting preprocess: source/test_one/glues/more-info-fqdn.xml
+Saved processed file → processed/test_one/glues/more-info-fqdn.xml
+Completed at 2026-11-17 14:06:04.660961
+
+Starting preprocess: source/test_one/glues/migration-guide-sle16-more-info.xml
+Protected 3 entity reference(s) in attribute values
+Saved processed file → processed/test_one/glues/migration-guide-sle16-more-info.xml
+Completed at 2026-11-17 14:06:04.681627
+
+Starting preprocess: source/test_one/articles/virtualization-disk-cache.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_one/articles/virtualization-disk-cache.asm.xml
+Completed at 2026-11-17 14:06:04.703036
+
+Starting preprocess: source/test_one/articles/SELinux-sap.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_one/articles/SELinux-sap.asm.xml
+Completed at 2026-11-17 14:06:04.724724
+
+Starting preprocess: source/test_one/articles/cockpit.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_one/articles/cockpit.asm.xml
+Completed at 2026-11-17 14:06:04.747035
+
+Starting preprocess: source/test_one/references/virt-v2v-vmware-migration.xml
+Saved processed file → processed/test_one/references/virt-v2v-vmware-migration.xml
+Completed at 2026-11-17 14:06:04.773536
+
+Starting preprocess: source/test_one/references/deployment-manual-system.xml
+Saved processed file → processed/test_one/references/deployment-manual-system.xml
+Completed at 2026-11-17 14:06:04.805517
+
+Starting preprocess: source/test_one/references/virt-components-installation-patterns.xml
+Protected 2 entity reference(s) in attribute values
+Saved processed file → processed/test_one/references/virt-components-installation-patterns.xml
+Completed at 2026-11-17 14:06:04.826695
+
