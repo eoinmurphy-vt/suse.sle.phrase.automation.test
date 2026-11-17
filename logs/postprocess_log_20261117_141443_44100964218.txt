@@ -1,0 +1,30 @@
+Postprocess started: 2026-11-17 14:14:43.603594
+
+⚠ MANUAL OVERRIDE TRIGGERED: Processing ALL files.
+✓ Processed: de_de/test_one/articles/SELinux-sap.asm.xml -> final/test_one/de/articles/SELinux-sap.asm.xml
+✓ Processed: de_de/test_one/articles/cockpit.asm.xml -> final/test_one/de/articles/cockpit.asm.xml
+✓ Processed: de_de/test_one/articles/virtualization-disk-cache.asm.xml -> final/test_one/de/articles/virtualization-disk-cache.asm.xml
+✓ Processed: de_de/test_one/common/l10n-bookname-entities.ent -> final/test_one/de/common/l10n-bookname-entities.ent
+✓ Processed: de_de/test_one/common/l10n-generic-entities.ent -> final/test_one/de/common/l10n-generic-entities.ent
+✓ Processed: de_de/test_one/common/legal.xml -> final/test_one/de/common/legal.xml
+✓ Processed: de_de/test_one/concepts/ansible-role-systemd.xml -> final/test_one/de/concepts/ansible-role-systemd.xml
+✓ Processed: de_de/test_one/concepts/copy-file-with-rsync-concept.xml -> final/test_one/de/concepts/copy-file-with-rsync-concept.xml
+✓ Processed: de_de/test_one/concepts/systemd-as-regular-user.xml -> final/test_one/de/concepts/systemd-as-regular-user.xml
+✓ Processed: de_de/test_one/concepts/what-is-systemd.xml -> final/test_one/de/concepts/what-is-systemd.xml
+✓ Processed: de_de/test_one/glues/migration-guide-sle16-more-info.xml -> final/test_one/de/glues/migration-guide-sle16-more-info.xml
+✓ Processed: de_de/test_one/glues/more-info-fqdn.xml -> final/test_one/de/glues/more-info-fqdn.xml
+✓ Processed: de_de/test_one/glues/saptune-about.xml -> final/test_one/de/glues/saptune-about.xml
+✓ Processed: de_de/test_one/references/deployment-manual-system.xml -> final/test_one/de/references/deployment-manual-system.xml
+✓ Processed: de_de/test_one/references/virt-components-installation-patterns.xml -> final/test_one/de/references/virt-components-installation-patterns.xml
+✓ Processed: de_de/test_one/references/virt-v2v-vmware-migration.xml -> final/test_one/de/references/virt-v2v-vmware-migration.xml
+XML declaration removed to match the English source: de_de/test_one/snippets/tls-certificates-issuing-common-steps.xml
+✓ Processed: de_de/test_one/snippets/tls-certificates-issuing-common-steps.xml -> final/test_one/de/snippets/tls-certificates-issuing-common-steps.xml
+XML declaration removed to match the English source: de_de/test_one/snippets/unsafe-cache-mode-warning.xml
+✓ Processed: de_de/test_one/snippets/unsafe-cache-mode-warning.xml -> final/test_one/de/snippets/unsafe-cache-mode-warning.xml
+✓ Processed: de_de/test_one/tasks/cockpit-configuring-servers.xml -> final/test_one/de/tasks/cockpit-configuring-servers.xml
+✓ Processed: de_de/test_one/tasks/ha-testing-cluster-failures.xml -> final/test_one/de/tasks/ha-testing-cluster-failures.xml
+✓ Processed: de_de/test_one/tasks/podman-checkpoint.xml -> final/test_one/de/tasks/podman-checkpoint.xml
+✓ Processed: de_de/test_one/tasks/rt-io-cpu-tuning-tune-io-scheduler.xml -> final/test_one/de/tasks/rt-io-cpu-tuning-tune-io-scheduler.xml
+
+=== Postprocess Complete ===
+Summary: Processed=22, Warnings=0, Errors=0, Skipped=0
