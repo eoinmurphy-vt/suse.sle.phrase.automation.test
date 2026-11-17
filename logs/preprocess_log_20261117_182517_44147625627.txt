@@ -1,0 +1,178 @@
+Starting preprocess: source/test_five/articles/NVIDIA-Jetson.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_five/articles/NVIDIA-Jetson.asm.xml
+Completed at 2026-11-17 18:25:17.163269
+
+Starting preprocess: source/test_five/articles/deployment-pxe-boot.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_five/articles/deployment-pxe-boot.asm.xml
+Completed at 2026-11-17 18:25:17.180524
+
+Starting preprocess: source/test_five/articles/journalctl.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_five/articles/journalctl.asm.xml
+Completed at 2026-11-17 18:25:17.197362
+
+Starting preprocess: source/test_five/articles/sles-to-sap.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_five/articles/sles-to-sap.asm.xml
+Completed at 2026-11-17 18:25:17.214110
+
+Starting preprocess: source/test_five/articles/transactional-updates.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_five/articles/transactional-updates.asm.xml
+Completed at 2026-11-17 18:25:17.230879
+
+Starting preprocess: source/test_five/common/l10n-bookname-entities.ent
+Saved processed file → processed/test_five/common/l10n-bookname-entities.ent
+Completed at 2026-11-17 18:25:17.247289
+
+Starting preprocess: source/test_five/common/l10n-generic-entities.ent
+Saved processed file → processed/test_five/common/l10n-generic-entities.ent
+Completed at 2026-11-17 18:25:17.263465
+
+Starting preprocess: source/test_five/common/legal.xml
+Saved processed file → processed/test_five/common/legal.xml
+Completed at 2026-11-17 18:25:17.279676
+
+Starting preprocess: source/test_five/concepts/kernel-boot-parameters-modify-introduction.xml
+Protected 2 entity reference(s) in attribute values
+Saved processed file → processed/test_five/concepts/kernel-boot-parameters-modify-introduction.xml
+Completed at 2026-11-17 18:25:17.295980
+
+Starting preprocess: source/test_five/concepts/openscap-scap-overview.xml
+Saved processed file → processed/test_five/concepts/openscap-scap-overview.xml
+Completed at 2026-11-17 18:25:17.312168
+
+Starting preprocess: source/test_five/concepts/sap-config-overview.xml
+Saved processed file → processed/test_five/concepts/sap-config-overview.xml
+Completed at 2026-11-17 18:25:17.328100
+
+Starting preprocess: source/test_five/glues/firewalld-more-info.xml
+Saved processed file → processed/test_five/glues/firewalld-more-info.xml
+Completed at 2026-11-17 18:25:17.344043
+
+Starting preprocess: source/test_five/glues/more-info-kdump.xml
+Saved processed file → processed/test_five/glues/more-info-kdump.xml
+Completed at 2026-11-17 18:25:17.359801
+
+Starting preprocess: source/test_five/glues/virtualization-more-info.xml
+Saved processed file → processed/test_five/glues/virtualization-more-info.xml
+Completed at 2026-11-17 18:25:17.375695
+
+Starting preprocess: source/test_five/references/RT-shielding-troubleshooting.xml
+Saved processed file → processed/test_five/references/RT-shielding-troubleshooting.xml
+Completed at 2026-11-17 18:25:17.391579
+
+Starting preprocess: source/test_five/references/ha-glossary.xml
+Saved processed file → processed/test_five/references/ha-glossary.xml
+Completed at 2026-11-17 18:25:17.407836
+
+Starting preprocess: source/test_five/references/libvirt_managing.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_five/references/libvirt_managing.xml
+Completed at 2026-11-17 18:25:17.425770
+
+Starting preprocess: source/test_five/references/network-interface-predictable-naming-troubleshooting.xml
+Saved processed file → processed/test_five/references/network-interface-predictable-naming-troubleshooting.xml
+Completed at 2026-11-17 18:25:17.448130
+
+Starting preprocess: source/test_five/references/networkmanager-nm-modify.xml
+Saved processed file → processed/test_five/references/networkmanager-nm-modify.xml
+Completed at 2026-11-17 18:25:17.464104
+
+Starting preprocess: source/test_five/references/qemu_running_vms_qemukvm.xml
+Protected 3 entity reference(s) in attribute values
+Saved processed file → processed/test_five/references/qemu_running_vms_qemukvm.xml
+Completed at 2026-11-17 18:25:17.481441
+
+Starting preprocess: source/test_five/references/virtualization-spice-removal.xml
+Saved processed file → processed/test_five/references/virtualization-spice-removal.xml
+Completed at 2026-11-17 18:25:17.497336
+
+Starting preprocess: source/test_five/references/virtualization-support.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_five/references/virtualization-support.xml
+Completed at 2026-11-17 18:25:17.514117
+
+Starting preprocess: source/test_five/references/vt-glossary.xml
+Saved processed file → processed/test_five/references/vt-glossary.xml
+Completed at 2026-11-17 18:25:17.529984
+
+Starting preprocess: source/test_five/snippets/Micro-default-registries.xml
+Saved processed file → processed/test_five/snippets/Micro-default-registries.xml
+Completed at 2026-11-17 18:25:17.545597
+
+Starting preprocess: source/test_five/snippets/Micro-upgrade-path.xml
+Saved processed file → processed/test_five/snippets/Micro-upgrade-path.xml
+Completed at 2026-11-17 18:25:17.561313
+
+Starting preprocess: source/test_five/snippets/deployment-raw-partitioning.xml
+Saved processed file → processed/test_five/snippets/deployment-raw-partitioning.xml
+Completed at 2026-11-17 18:25:17.577087
+
+Starting preprocess: source/test_five/snippets/ha-maintenance-mode-off.xml
+Saved processed file → processed/test_five/snippets/ha-maintenance-mode-off.xml
+Completed at 2026-11-17 18:25:17.593335
+
+Starting preprocess: source/test_five/snippets/openwebui-intro.xml
+Saved processed file → processed/test_five/snippets/openwebui-intro.xml
+Completed at 2026-11-17 18:25:17.609898
+
+Starting preprocess: source/test_five/snippets/openwebui-tip-default-model.xml
+Saved processed file → processed/test_five/snippets/openwebui-tip-default-model.xml
+Completed at 2026-11-17 18:25:17.626627
+
+Starting preprocess: source/test_five/snippets/requirement-root-or-sudo-privileges.xml
+Saved processed file → processed/test_five/snippets/requirement-root-or-sudo-privileges.xml
+Completed at 2026-11-17 18:25:17.643362
+
+Starting preprocess: source/test_five/snippets/tls-certificates-issuing-common-steps.xml
+Saved processed file → processed/test_five/snippets/tls-certificates-issuing-common-steps.xml
+Completed at 2026-11-17 18:25:17.660321
+
+Starting preprocess: source/test_five/snippets/unsafe-cache-mode-warning.xml
+Saved processed file → processed/test_five/snippets/unsafe-cache-mode-warning.xml
+Completed at 2026-11-17 18:25:17.676980
+
+Starting preprocess: source/test_five/tasks/cpu-check-temperature-configure.xml
+Saved processed file → processed/test_five/tasks/cpu-check-temperature-configure.xml
+Completed at 2026-11-17 18:25:17.693510
+
+Starting preprocess: source/test_five/tasks/ha-crmsh-using-interactive-mode.xml
+Saved processed file → processed/test_five/tasks/ha-crmsh-using-interactive-mode.xml
+Completed at 2026-11-17 18:25:17.709765
+
+Starting preprocess: source/test_five/tasks/klp-activate-cli.xml
+Saved processed file → processed/test_five/tasks/klp-activate-cli.xml
+Completed at 2026-11-17 18:25:17.725656
+
+Starting preprocess: source/test_five/tasks/openscap-system-remediating.xml
+Saved processed file → processed/test_five/tasks/openscap-system-remediating.xml
+Completed at 2026-11-17 18:25:17.741736
+
+Starting preprocess: source/test_five/tasks/rmt-deploying-on-kubernetes.xml
+Protected 2 entity reference(s) in attribute values
+Saved processed file → processed/test_five/tasks/rmt-deploying-on-kubernetes.xml
+Completed at 2026-11-17 18:25:17.757651
+
+Starting preprocess: source/test_five/tasks/rmt-mirroring-obtaining-credentials.xml
+Saved processed file → processed/test_five/tasks/rmt-mirroring-obtaining-credentials.xml
+Completed at 2026-11-17 18:25:17.773402
+
+Starting preprocess: source/test_five/tasks/rt-docker-shielding-applications.xml
+Saved processed file → processed/test_five/tasks/rt-docker-shielding-applications.xml
+Completed at 2026-11-17 18:25:17.789072
+
+Starting preprocess: source/test_five/tasks/sudo-run-command.xml
+Saved processed file → processed/test_five/tasks/sudo-run-command.xml
+Completed at 2026-11-17 18:25:17.804808
+
+Starting preprocess: source/test_five/tasks/supportconfig-submitting-archive.xml
+Saved processed file → processed/test_five/tasks/supportconfig-submitting-archive.xml
+Completed at 2026-11-17 18:25:17.820462
+
+Starting preprocess: source/test_five/tasks/systemd-timer-migrate-from-cron.xml
+Saved processed file → processed/test_five/tasks/systemd-timer-migrate-from-cron.xml
+Completed at 2026-11-17 18:25:17.836123
+
