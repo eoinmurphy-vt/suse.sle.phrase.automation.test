@@ -1,0 +1,133 @@
+Starting preprocess: source/test_three/articles/NVIDIA-Jetson.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_three/articles/NVIDIA-Jetson.asm.xml
+Completed at 2026-11-17 16:25:08.183626
+
+Starting preprocess: source/test_three/articles/deployment-pxe-boot.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_three/articles/deployment-pxe-boot.asm.xml
+Completed at 2026-11-17 16:25:08.210496
+
+Starting preprocess: source/test_three/articles/journalctl.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_three/articles/journalctl.asm.xml
+Completed at 2026-11-17 16:25:08.236071
+
+Starting preprocess: source/test_three/articles/sles-to-sap.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_three/articles/sles-to-sap.asm.xml
+Completed at 2026-11-17 16:25:08.261643
+
+Starting preprocess: source/test_three/articles/transactional-updates.asm.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_three/articles/transactional-updates.asm.xml
+Completed at 2026-11-17 16:25:08.287288
+
+Starting preprocess: source/test_three/common/l10n-bookname-entities.ent
+Saved processed file → processed/test_three/common/l10n-bookname-entities.ent
+Completed at 2026-11-17 16:25:08.312484
+
+Starting preprocess: source/test_three/common/l10n-generic-entities.ent
+Saved processed file → processed/test_three/common/l10n-generic-entities.ent
+Completed at 2026-11-17 16:25:08.337437
+
+Starting preprocess: source/test_three/common/legal.xml
+Saved processed file → processed/test_three/common/legal.xml
+Completed at 2026-11-17 16:25:08.362898
+
+Starting preprocess: source/test_three/concepts/kernel-boot-parameters-modify-introduction.xml
+Protected 2 entity reference(s) in attribute values
+Saved processed file → processed/test_three/concepts/kernel-boot-parameters-modify-introduction.xml
+Completed at 2026-11-17 16:25:08.397744
+
+Starting preprocess: source/test_three/concepts/openscap-scap-overview.xml
+Saved processed file → processed/test_three/concepts/openscap-scap-overview.xml
+Completed at 2026-11-17 16:25:08.423915
+
+Starting preprocess: source/test_three/concepts/sap-config-overview.xml
+Saved processed file → processed/test_three/concepts/sap-config-overview.xml
+Completed at 2026-11-17 16:25:08.449077
+
+Starting preprocess: source/test_three/glues/firewalld-more-info.xml
+Saved processed file → processed/test_three/glues/firewalld-more-info.xml
+Completed at 2026-11-17 16:25:08.474550
+
+Starting preprocess: source/test_three/glues/more-info-kdump.xml
+Saved processed file → processed/test_three/glues/more-info-kdump.xml
+Completed at 2026-11-17 16:25:08.499860
+
+Starting preprocess: source/test_three/glues/virtualization-more-info.xml
+Saved processed file → processed/test_three/glues/virtualization-more-info.xml
+Completed at 2026-11-17 16:25:08.525285
+
+Starting preprocess: source/test_three/references/RT-shielding-troubleshooting.xml
+Saved processed file → processed/test_three/references/RT-shielding-troubleshooting.xml
+Completed at 2026-11-17 16:25:08.551075
+
+Starting preprocess: source/test_three/references/ha-glossary.xml
+Saved processed file → processed/test_three/references/ha-glossary.xml
+Completed at 2026-11-17 16:25:08.576773
+
+Starting preprocess: source/test_three/references/libvirt_managing.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_three/references/libvirt_managing.xml
+Completed at 2026-11-17 16:25:08.603912
+
+Starting preprocess: source/test_three/references/network-interface-predictable-naming-troubleshooting.xml
+Saved processed file → processed/test_three/references/network-interface-predictable-naming-troubleshooting.xml
+Completed at 2026-11-17 16:25:08.640670
+
+Starting preprocess: source/test_three/references/networkmanager-nm-modify.xml
+Saved processed file → processed/test_three/references/networkmanager-nm-modify.xml
+Completed at 2026-11-17 16:25:08.667789
+
+Starting preprocess: source/test_three/references/qemu_running_vms_qemukvm.xml
+Protected 3 entity reference(s) in attribute values
+Saved processed file → processed/test_three/references/qemu_running_vms_qemukvm.xml
+Completed at 2026-11-17 16:25:08.695534
+
+Starting preprocess: source/test_three/references/virtualization-spice-removal.xml
+Saved processed file → processed/test_three/references/virtualization-spice-removal.xml
+Completed at 2026-11-17 16:25:08.721367
+
+Starting preprocess: source/test_three/references/virtualization-support.xml
+Protected 1 entity reference(s) in attribute values
+Saved processed file → processed/test_three/references/virtualization-support.xml
+Completed at 2026-11-17 16:25:08.748819
+
+Starting preprocess: source/test_three/references/vt-glossary.xml
+Saved processed file → processed/test_three/references/vt-glossary.xml
+Completed at 2026-11-17 16:25:08.774444
+
+Starting preprocess: source/test_three/snippets/Micro-default-registries.xml
+Saved processed file → processed/test_three/snippets/Micro-default-registries.xml
+Completed at 2026-11-17 16:25:08.799962
+
+Starting preprocess: source/test_three/snippets/Micro-upgrade-path.xml
+Saved processed file → processed/test_three/snippets/Micro-upgrade-path.xml
+Completed at 2026-11-17 16:25:08.825268
+
+Starting preprocess: source/test_three/snippets/deployment-raw-partitioning.xml
+Saved processed file → processed/test_three/snippets/deployment-raw-partitioning.xml
+Completed at 2026-11-17 16:25:08.853399
+
+Starting preprocess: source/test_three/snippets/ha-maintenance-mode-off.xml
+Saved processed file → processed/test_three/snippets/ha-maintenance-mode-off.xml
+Completed at 2026-11-17 16:25:08.879740
+
+Starting preprocess: source/test_three/snippets/openwebui-intro.xml
+Saved processed file → processed/test_three/snippets/openwebui-intro.xml
+Completed at 2026-11-17 16:25:08.905216
+
+Starting preprocess: source/test_three/snippets/openwebui-tip-default-model.xml
+Saved processed file → processed/test_three/snippets/openwebui-tip-default-model.xml
+Completed at 2026-11-17 16:25:08.930484
+
+Starting preprocess: source/test_three/snippets/requirement-root-or-sudo-privileges.xml
+Saved processed file → processed/test_three/snippets/requirement-root-or-sudo-privileges.xml
+Completed at 2026-11-17 16:25:08.955488
+
+Starting preprocess: source/test_three/snippets/tls-certificates-issuing-common-steps.xml
+Saved processed file → processed/test_three/snippets/tls-certificates-issuing-common-steps.xml
+Completed at 2026-11-17 16:25:08.981154
+

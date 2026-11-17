@@ -1,0 +1,45 @@
+Starting preprocess: source/test_three/snippets/unsafe-cache-mode-warning.xml
+Saved processed file → processed/test_three/snippets/unsafe-cache-mode-warning.xml
+Completed at 2026-11-17 16:25:09.006412
+
+Starting preprocess: source/test_three/tasks/cpu-check-temperature-configure.xml
+Saved processed file → processed/test_three/tasks/cpu-check-temperature-configure.xml
+Completed at 2026-11-17 16:25:09.032010
+
+Starting preprocess: source/test_three/tasks/ha-crmsh-using-interactive-mode.xml
+Saved processed file → processed/test_three/tasks/ha-crmsh-using-interactive-mode.xml
+Completed at 2026-11-17 16:25:09.058289
+
+Starting preprocess: source/test_three/tasks/klp-activate-cli.xml
+Saved processed file → processed/test_three/tasks/klp-activate-cli.xml
+Completed at 2026-11-17 16:25:09.083441
+
+Starting preprocess: source/test_three/tasks/openscap-system-remediating.xml
+Saved processed file → processed/test_three/tasks/openscap-system-remediating.xml
+Completed at 2026-11-17 16:25:09.108852
+
+Starting preprocess: source/test_three/tasks/rmt-deploying-on-kubernetes.xml
+Protected 2 entity reference(s) in attribute values
+Saved processed file → processed/test_three/tasks/rmt-deploying-on-kubernetes.xml
+Completed at 2026-11-17 16:25:09.134342
+
+Starting preprocess: source/test_three/tasks/rmt-mirroring-obtaining-credentials.xml
+Saved processed file → processed/test_three/tasks/rmt-mirroring-obtaining-credentials.xml
+Completed at 2026-11-17 16:25:09.159262
+
+Starting preprocess: source/test_three/tasks/rt-docker-shielding-applications.xml
+Saved processed file → processed/test_three/tasks/rt-docker-shielding-applications.xml
+Completed at 2026-11-17 16:25:09.185335
+
+Starting preprocess: source/test_three/tasks/sudo-run-command.xml
+Saved processed file → processed/test_three/tasks/sudo-run-command.xml
+Completed at 2026-11-17 16:25:09.211990
+
+Starting preprocess: source/test_three/tasks/supportconfig-submitting-archive.xml
+Saved processed file → processed/test_three/tasks/supportconfig-submitting-archive.xml
+Completed at 2026-11-17 16:25:09.237699
+
+Starting preprocess: source/test_three/tasks/systemd-timer-migrate-from-cron.xml
+Saved processed file → processed/test_three/tasks/systemd-timer-migrate-from-cron.xml
+Completed at 2026-11-17 16:25:09.263370
+
